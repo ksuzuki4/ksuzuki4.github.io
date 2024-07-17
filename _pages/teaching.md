@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Teaching Assistant, The University of California, Santa Cruz (April 2020 - June 2024) 
+* **Teaching Assistant, The University of California, Santa Cruz** (April 2020 - June 2024) 
   * Applied Econometric Analysis I (Econ 216): Fall 2022
   * Applied Econometric Analysis II (Econ 217): Winter 2024
   * Introduction to Econometrics (Econ 113): Fall 2020, Spring 2021, Spring 2022, Summer 2022
