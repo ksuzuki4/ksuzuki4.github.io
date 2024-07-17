@@ -15,7 +15,7 @@ Health Economics, Applied Microeconomics, and Applied Econometrics
 ---
 
 ## Education
-* Ph.D in Economics, The University of California, Santa Cruz (September 2019 - June 2024)
+* Ph.D. in Economics, The University of California, Santa Cruz (September 2019 - June 2024)
 * M.A. in Economics, Hitotsubashi University, (April 2015 - March 2017)
 * B.A. in Economics, Yokohama National University (April 2010 - March 2015)
 * Exchange, The University of Georgia (August 2012 - April 2013)
