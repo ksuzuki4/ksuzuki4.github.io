@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-### Research Interest
+## Research Interest
 Health Economics, Applied Microeconomics, and Applied Econometrics
 
 ---
 
-### Education
+## Education
 * Ph.D in Economics, The University of California, Santa Cruz (September 2019 - June 2024)
 * M.A. in Economics, Hitotsubashi University, (April 2015 - March 2017)
 * B.A. in Economics, Yokohama National University (April 2010 - March 2015)
@@ -22,7 +22,7 @@ Health Economics, Applied Microeconomics, and Applied Econometrics
 
 ---
 
-### Work experience
+## Work experience
 * **The University of California, Santa Cruz**
   * **Graduate Teaching Assistant** (April 2020 - June 2024) 
     * Applied Econometric Analysis I (Econ 216): Fall 2022
@@ -43,7 +43,7 @@ Health Economics, Applied Microeconomics, and Applied Econometrics
 
 ---  
 
-### Skills
+## Skills
 * **Software**
   * R, Stata, LaTex, Microsoft Office
 
